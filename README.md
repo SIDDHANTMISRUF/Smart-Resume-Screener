@@ -2,6 +2,7 @@
 An intelligent, full-stack application designed to automate the initial stages of recruitment. This tool uses a hybrid AI approach, combining a rule-based engine with a powerful Large Language Model (LLM) to parse candidate resumes, match them against job descriptions, and provide a detailed analysis with a match score.
 
 Core Features
+
 📄 Intelligent Resume Parsing: Upload PDF resumes and automatically extract key information like name, contact details, skills, and years of experience using an evidence-based parsing engine.
 
 💼 Job Description Management: Create, view, and manage job descriptions with specific requirements for skills and experience.
@@ -16,7 +17,9 @@ Modern Web Interface: A clean, responsive user interface built with React for a 
 
 RESTful API: A robust backend built with FastAPI and SQLAlchemy for efficient data management and scalability.
 
+
 💻 Tech Stack
+
 Frontend: React, Axios
 
 Backend: Python, FastAPI
